@@ -64,7 +64,7 @@ class _LogInState extends State<LogIn> {
                           return ('email is required');
                         }
                         if (value != 'zhinaabdi64') {
-                          return ('your email is wrong');
+                          return ('Your email is wrong');
                         }
                       },
                       decoration: const InputDecoration(
