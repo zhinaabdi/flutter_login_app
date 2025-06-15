@@ -134,7 +134,7 @@ class _LogInState extends State<LogIn> {
                         );
                       },
                       child: Text(
-                        'Forgot your password?',
+                        'Forgot Your password?',
                         style: TextStyle(color: Colors.white54),
                       ),
                     ),
